@@ -25,8 +25,8 @@ Youtube Link-https://youtu.be/ZfD8rP77d2Q
 We excecuted the marketing campaign in different types of social media firm
 
 <p align="center">
-Instagram Link-https://www.instagram.com/tv/CBT1Yw_lPjC/?utm_source=ig_web_copy_link
-Twitter Link - https://twitter.com/Vijayar51579494/status/1271819069008703489?s=08
+Instagram Link-https://www.instagram.com/tv/CBT1Yw_lPjC/?utm_source=ig_web_copy_link<br>
+Twitter Link - https://twitter.com/Vijayar51579494/status/1271819069008703489?s=08<br>
 Feedback receieved : https://docs.google.com/spreadsheets/d/114NvuZ9ODy2k5JVWHQ4pl_skd6hO8E4isDhMTIGifYs/edit?usp=sharing
 </p>
 
