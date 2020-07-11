@@ -17,6 +17,9 @@ This app get the shop to your home, through AR and we can select any dress from 
 ## Demos
 
 <p align="center">
+  <img src="Animated GIF-source.gif" width="30%">
+</p>
+<p align="center">
 Youtube Link-https://youtu.be/ZfD8rP77d2Q
 </p>
 
